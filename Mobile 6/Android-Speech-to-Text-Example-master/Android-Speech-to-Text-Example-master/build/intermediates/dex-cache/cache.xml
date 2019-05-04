@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\78d58b9939db63e3c3a81d0f7e0084fcd5ac3979\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_9d642a6f83d18df00883dbfd8b6eaeb924f45e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\cc8fc112a2365f280447e127cda691b8795853b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_a5b8d1426be961b5042db13bb0e8d1e9e87fc5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\2d5ac0971200780234bc70cfaef0fa26908abbbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_2d2e402323aec1b65cd1e752eeb3bbef0f5cd3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\96ff2e6acca4aac65986fa8bd8165ca1feccbbea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_24119e7699103ba33e464835d9ec152def831921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\62833b0dacfb3b3d6f3603711e4e74f1820e9c78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_04b16fce345f5dd0e5b34fd75d8b2f0356e1bb49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\babdc233d970c7f40accab278ac2b0223cb349d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_54f2632585102323cf8a9a22b61de01dac54cbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_d0f493c57974d5e3a97ccf25cee2b91b13aa0f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\fc8455495924dbfe0bb60697648c536a63e648f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_8a9fcec22dd16147042d3966ff0ac50052137a8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\377d123199445ee2a63b55c693d2279f2a255966\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_af110518c6883a721db69b8b0af3913afc82768f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ramya\.android\build-cache\18b33ad3c321b87f29a47f672b7e26140874eac0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Ramya\Downloads\Mobile 6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_caf091a81ffe68aab85bb4792913a65b6aa604ab.jar" />
+    </item>
+
+</items>
